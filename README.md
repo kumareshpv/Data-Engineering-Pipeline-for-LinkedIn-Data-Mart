@@ -117,14 +117,14 @@ The final Tableau dashboard combines all the visualizations into an interactive 
 2. **Set Up the SQL Database**:
 - Import the provided SQL dump `(dump_group_11.sql)` into your SQL server.
 
-2. **Run the ETL Process**:
+3. **Run the ETL Process**:
 - Configure and run the ETL pipeline using Pentaho to extract, transform, and load data into the SQL database.
 
-3. **Import Data into Tableau**:
+4. **Import Data into Tableau**:
 - Connect Tableau to the SQL database and import the data.
 - Open the Tableau workbook and explore the visualizations.
 
-3. **Explore the Dashboard**:
+5. **Explore the Dashboard**:
 - Use the interactive filters to explore LinkedIn profiles in the dashboard.
 
 ### Future Work
