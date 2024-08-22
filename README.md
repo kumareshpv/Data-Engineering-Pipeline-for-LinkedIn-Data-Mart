@@ -128,9 +128,16 @@ The final Tableau dashboard combines all the visualizations into an interactive 
 - Use the interactive filters to explore LinkedIn profiles in the dashboard.
 
 ### Future Work
+
 - Automating ETL Processes: Implementing automation to update the SQL database with the latest LinkedIn data.
 - Expanding Data Sources: Integrating additional data sources for a more comprehensive analysis.
 - Enhanced Visualizations: Developing more advanced visualizations and adding predictive analytics.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ### Contributors
+
 Kumaresh PV - [LinkedIn](https://www.linkedin.com/in/kumaresh-pv)
